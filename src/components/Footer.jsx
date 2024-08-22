@@ -35,13 +35,13 @@ function Footer() {
               <p className="text-lightGray ">
                 Subscribe to the weekly newsletter for all the latest updates
               </p>
-              <div className="border-lightGray mt-[10px] flex items-center border">
+              <div className="mt-[10px] flex items-center border border-lightGray">
                 <input
                   type="text"
                   placeholder="Your Email"
                   className="w-full bg-transparent p-[10px] outline-none"
                 />
-                <button className="hover:bg-darkYellow bg-yellow p-[10px] text-textColor">
+                <button className="bg-yellow p-[10px] text-textColor hover:bg-darkYellow">
                   Subscribe
                 </button>
               </div>
@@ -49,14 +49,14 @@ function Footer() {
 
             <div className="flex flex-row items-center justify-center gap-[10px] text-xl md:flex-col md:justify-start">
               <Link
-                to={"https://github.com/mustafa-khaled"}
+                to={"https://github.com/amehgenius9"}
                 target="_blank"
                 className="hover:text-yellow"
               >
                 <ImGithub />
               </Link>
               <Link
-                to={"https://www.linkedin.com/in/the-mustafa-khaled/"}
+                to={"www.linkedin.com/in/amehgenius9"}
                 target="_blank"
                 className="hover:text-yellow"
               >
@@ -69,11 +69,11 @@ function Footer() {
       <p className="bg-yellow p-[20px] text-textColor ">
         Copyright © 2023{" "}
         <Link
-          to={"https://www.linkedin.com/in/the-mustafa-khaled/"}
+          to={"www.linkedin.com/in/amehgenius9"}
           target="_blank"
           className="underline"
         >
-          Mustafa Khaled
+          Ameh Victor
         </Link>
         . All Rights Reserved.
       </p>
