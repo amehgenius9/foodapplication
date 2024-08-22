@@ -12,16 +12,16 @@ function Footer() {
           <GridContainer>
             <div>
               <h5 className="mb-[5px] text-xl uppercase">Address</h5>
-              <p className="text-lightGray">Cairo, Egypt</p>
+              <p className="text-lightGray">Bolton, United Kingdom</p>
             </div>
 
             <div>
               <h5 className="mb-[5px] text-xl uppercase">Book A Table</h5>
               <p className="text-lightGray">
-                Dogfood och Sliders foodtruck.
-                <br /> Under Om oss kan ni läsa
+                Holly Grove.
+                <br /> Farnworth Bolton
               </p>
-              <span className="text-yellow">(+20) 1151747091</span>
+              <span className="text-yellow">(+44) 7917919813</span>
             </div>
 
             <div>
